@@ -47,3 +47,4 @@ Developed by ThemeWagon and development team.
 - Developed by <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
 
 ## REGISTER - REGA
+#REGISTER QAAF
