@@ -46,4 +46,5 @@ Developed by ThemeWagon and development team.
 - Licensed cover under [MIT]
 - Developed by <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
 
+## REGISTER - REGA
 #REGISTER QAAF
